@@ -1,2 +1,2 @@
-# OpenClash-RuleTemplates
-OpenClash规则模板
+# RuleTemplates
+代理规则模板
