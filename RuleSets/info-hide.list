@@ -2,4 +2,6 @@
 # 域名后缀匹配
 
 # 斗鱼
-
+DOMAIN-SUFFIX,douyu.com
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyucdn2.cn
