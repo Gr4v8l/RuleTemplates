@@ -1,5 +1,14 @@
-# DouYuTV
+# 摸鱼规则
 
+# DouYuTV
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,douyucdn2.cn
+DOMAIN-KEYWORD,douyu
+
+# DouYin
+DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,zijie
+DOMAIN-KEYWORD,bdurl
+DOMAIN-KEYWORD,byte
+DOMAIN-KEYWORD,snssdk
